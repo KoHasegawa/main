@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+proof_v4_early.png
+proof_v4_mid.png
