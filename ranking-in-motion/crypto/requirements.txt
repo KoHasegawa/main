@@ -1,0 +1,9 @@
+# Libraries imported by generate_race_v4.py and fetch_cmc_historical.py.
+# The v4 render did not record package versions. Do not expect a re-render
+# to match crypto_mcap_top10_9x16_v4.mp4 byte for byte.
+matplotlib
+numpy
+pandas
+pillow
+imageio
+requests
